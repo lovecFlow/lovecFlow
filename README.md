@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lovecFlow
+- 👀 I’m interested in JS/React
+- 🌱 I’m currently learning JS/React/Vue
